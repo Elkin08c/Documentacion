@@ -140,10 +140,11 @@ Localhost:8090
 **Resultados Esperados**
 
 Al acceder al navegador por los puertos expuestos, se debe visualizar:
-
+![Resultados esperados](Capturas/index1.png)
+![Resultados esperados](Capturas/index2.png)
 **Audio-Resumen**
 
-[WhatsApp Audio 2025-04-12 at 23.46.22.mp4](Servidores%20web%20ngnix%20docker%201d4924d6dc5b80bbae97cfd2a5e296c8/WhatsApp_Audio_2025-04-12_at_23.46.22.mp4)
+[WhatsApp Audio 2025-04-12 at 23.46.22.mp4](Docker.mp4)
 
 # **Bibliografia**
 
