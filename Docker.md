@@ -141,10 +141,6 @@ Localhost:8090
 
 Al acceder al navegador por los puertos expuestos, se debe visualizar:
 
-![Screenshot_20250412_233804.png](Servidores%20web%20ngnix%20docker%201d4924d6dc5b80bbae97cfd2a5e296c8/596d3519-555e-4d71-9018-86e65f5d2c87.png)
-
-![Screenshot_20250412_234253.png](Servidores%20web%20ngnix%20docker%201d4924d6dc5b80bbae97cfd2a5e296c8/e2e2f320-16cd-40ec-b487-6079ae20bfb9.png)
-
 **Audio-Resumen**
 
 [WhatsApp Audio 2025-04-12 at 23.46.22.mp4](Servidores%20web%20ngnix%20docker%201d4924d6dc5b80bbae97cfd2a5e296c8/WhatsApp_Audio_2025-04-12_at_23.46.22.mp4)
