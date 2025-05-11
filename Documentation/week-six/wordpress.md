@@ -2,7 +2,7 @@
 # Práctica servidor web
 
 ## 1. Título
-Implementación de WordPress con base de datos MariaDB y administración con phpMyAdmin usando Docker Compose.
+Implementación de WordPress con base de datos MysqlDB y administración con phpMyAdmin usando Docker Compose.
 
 ## 2. Tiempo de duración
 120 minutos
