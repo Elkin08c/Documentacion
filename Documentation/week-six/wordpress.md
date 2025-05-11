@@ -17,7 +17,6 @@ En esta práctica se utilizan contenedores Docker para implementar un entorno co
 
 Los contenedores se conectan a través de una red virtual definida en Docker. También se utilizan volúmenes persistentes para almacenar los datos de WordPress y MariaDB, de modo que no se pierdan al reiniciar los contenedores.
 
-![Figura 1-1. Diagrama de arquitectura del sistema](https://miro.medium.com/v2/resize:fit:800/format:webp/1*rf0kHeurSlkQlnc7r_2s9A.png)
 
 ## 4. Conocimientos previos
 
@@ -144,7 +143,7 @@ docker volume ls
 docker network ls
 ```
 
-![Figura 1-2. phpMyAdmin conectado a MariaDB](https://www.phpmyadmin.net/images/screenshots/homepage.png)
+
 
 ## 9. Resultados esperados
 
