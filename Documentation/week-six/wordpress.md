@@ -39,7 +39,7 @@ Los contenedores se conectan a través de una red virtual definida en Docker. Ta
 - MSI Nvidia 4060 16GB 512G
 - Terminal de comandos (WARP)
 - Conexion a Internet
-- Navegar web conpatible (Zen browser)
+- Navegar web conpatible (Zen browser u otros)
 - Docker Engine versión 28.1.1
 - Editor de texto (VS Code, nano, etc.)
 
