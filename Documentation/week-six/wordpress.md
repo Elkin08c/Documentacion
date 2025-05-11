@@ -143,7 +143,10 @@ docker volume ls
 docker network ls
 ```
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f799e97 (Tu)
 
 ## 9. Resultados esperados
 
@@ -154,7 +157,7 @@ Se espera que al iniciar el contenedor `wordpress`, el usuario pueda realizar la
 
 [Escuchar resumen]
  - Formato Audio
- https://drive.google.com/file/d/1ueTqDHbYnZMV9B0fdJU2d7wsquILMaB9/view?usp=drive_link
+ https://drive.google.com/file/d/15rfwZItULUzJZOF7mJzckPeT7IsKn9Ce/view?usp=drive_link
 
 ## 10. Bibliografía
 
